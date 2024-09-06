@@ -12,6 +12,7 @@
 https://youtu.be/Icf1lj9RxMk?si=h62uz0REc5Lhh2zZ
 
 ## 팀원
+
 ![팀원 이미지](team.JPEG)
 
 ## 팀 리포지토리
