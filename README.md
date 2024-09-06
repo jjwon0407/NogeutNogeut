@@ -13,4 +13,4 @@
 https://youtu.be/Icf1lj9RxMk?si=h62uz0REc5Lhh2zZ
 
 ## 팀원
-<img src="../team.JPEG" alt="팀원 이미지" style="width: 100%;">
+![팀원 이미지](team.JPEG)
