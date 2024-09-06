@@ -13,4 +13,4 @@
 https://youtu.be/Icf1lj9RxMk?si=h62uz0REc5Lhh2zZ
 
 ## 팀원
-![팀원 이미지](team.JPEG)
+![team](https://github.com/user-attachments/assets/b26cfa24-b58f-4780-baef-a41baab9bbc8)
